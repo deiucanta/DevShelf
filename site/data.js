@@ -1,13 +1,13 @@
 window.DEVSHELF_DATA = {
-  "updatedAt": "2026-09-29T13:11:34.841Z",
-  "totalCount": 517,
-  "reposCount": 321,
+  "updatedAt": "2026-10-01T22:50:59.910Z",
+  "totalCount": 518,
+  "reposCount": 322,
   "facets": {
-    "repos": 321
+    "repos": 322
   },
   "counts": {
     "aiTools": 87,
-    "cliTools": 110,
+    "cliTools": 111,
     "testingQa": 62,
     "apis": 96,
     "freeCloud": 70,
@@ -3215,6 +3215,17 @@ window.DEVSHELF_DATA = {
       "category": "CLI & Developer Productivity",
       "description": "Offline Node.js CLI that checks examples in local JSON OpenAPI 3.0 and 3.1 descriptions against the schema for their operation and media type. It reports unsupported checks as incomplete instead of treating them as a pass.",
       "language": "JavaScript (Node.js 22+)",
+      "license": "MIT",
+      "featured": false,
+      "type": "cli",
+      "section": "CLI & Productivity Tools"
+    },
+    {
+      "name": "OrkasVideoStudio",
+      "repo": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+      "category": "CLI & Developer Productivity",
+      "description": "OrkasVideoStudio is an MIT-licensed, local-first TypeScript CLI and MCP toolkit that lets coding agents compose, edit, generate, and automatically assemble videos from editable plan.json timelines. Composition, editing and transcription form the zero-key trunk; optional provider-backed generation uses your own keys and may incur provider costs.",
+      "language": "TypeScript, Node.js, CLI and MCP; ffmpeg for media operations.",
       "license": "MIT",
       "featured": false,
       "type": "cli",
